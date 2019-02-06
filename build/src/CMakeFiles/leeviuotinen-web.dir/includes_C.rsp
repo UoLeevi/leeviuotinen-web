@@ -1,0 +1,1 @@
+-isystem /usr/local/libuo/include/uo_conf -isystem /usr/local/libuo/include -isystem /usr/local/libuo/include/uo_err -isystem /usr/local/libuo/include/uo_http -isystem /usr/local/libuo/include/uo_buf -isystem /usr/local/libuo/include/uo_cb -isystem /usr/local/libuo/include/uo_prog 

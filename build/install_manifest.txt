@@ -1,0 +1,2 @@
+/usr/local/leeviuotinen-web/bin/leeviuotinen-web.conf
+/usr/local/leeviuotinen-web/bin/leeviuotinen-web.exe
