@@ -1,0 +1,14 @@
+[Unit]
+Description=libuo web server for leeviuotinen.com
+
+[Service]
+WorkingDirectory=/usr/local/leeviuotinen-web/bin
+ExecStart=/usr/local/leeviuotinen-web/bin/leeviuotinen-web
+Restart=always
+RestartSec=20
+StartLimitInterval=600
+StartLimitBurst=3
+User=www-data
+
+[Install]
+WantedBy=multi-user.target
